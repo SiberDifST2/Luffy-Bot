@@ -1,0 +1,9 @@
+CARA PEMASANGAN
+
+    1. termux-setup-storage
+    2.apt update && apt upgrade
+    3.cd /sdcard
+    4.cp -r Luffy-Md $HOME
+    5.cd
+    6.cd Luffy-Md
+    7.bash install.sh
