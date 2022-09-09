@@ -26,6 +26,10 @@
 
 [`Click Here`](https://github.com/zeeone-ofc/Alphab0t/blob/master/session.json#L1)
 
+## `YOUTUBE DEARZ MODS`
+[`Dearz Mods`](https://youtube.com/c/DearzMods01)
+
+
 ## `SETTING`
 
 - Owner number [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
